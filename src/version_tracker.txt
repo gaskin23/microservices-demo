@@ -1,0 +1,11 @@
+adservice:4.0
+checkoutservice:4.0
+cartservice:4.0
+currencyservice:4.0
+emailservice:4.0
+frontend:4.0
+loadgenerator:4.0
+paymentservice:4.0
+productcatalogservice:4.0
+recommendationservice:4.0
+shippingservice:4.0
